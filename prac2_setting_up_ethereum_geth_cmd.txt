@@ -1,0 +1,14 @@
+Install on Ubuntu via PPAs
+The easiest way to install go-ethereum on Ubuntu-based distributions is with the built-in launchpad PPAs (Personal Package Archives). We provide a single PPA repository that contains both our stable and development releases for Ubuntu versions trusty, xenial, zesty and artful.
+
+linux:
+To enable our launchpad repository run:
+Step 1: open new terminal
+Step 2: on terminal type this command
+sudo add-apt-repository -y ppa:ethereum/ethereum
+#if above command gives error then run 
+#sudo apt-get install --reinstall ca-certificates
+
+Step 3: install the stable version of go-ethereum:
+sudo apt-get update
+sudo apt-get install ethereum

@@ -1,0 +1,11 @@
+Aim:-Demonstrate the use of Bitcoin Core API.
+Step 1: Visit: https://bitcoin.org/en/download
+Step 2: Download windows setup [use and try with Linux version as well]
+Step 3: Run the setup file-> click next
+Step 4: Click Next
+Step 5: Finally click on Install
+Launch Bitcoin Core-> Click OK.
+Click on Hide button [Synchronization take place in background]
+You can create a wallet -> Create a new wallet
+Enter Wallet name
+Finally Account is setup
